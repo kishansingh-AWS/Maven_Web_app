@@ -1,6 +1,6 @@
 FROM tomcat:8.0.20-jre8
 
-MAINTAINER Kishan <kishan@oracle.com>
+MAINTAINER Kishan <kishans@oracle.com>
 
 EXPOSE 8080
 
